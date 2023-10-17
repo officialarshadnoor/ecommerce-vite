@@ -37,7 +37,7 @@ const BlogSection = () => {
                     img={el.img}
                     title={el.title}
                     date={el.date}
-                    comment={el.comment}
+                    comment={el.comment.toString()}
                     />
                 ))
             }

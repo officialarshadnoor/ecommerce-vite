@@ -1,6 +1,6 @@
 interface propsType {
     title:string;
-    icon:React.React.Node;
+    icon: React.ReactNode;
 }
 
 
